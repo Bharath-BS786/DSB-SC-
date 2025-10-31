@@ -49,11 +49,21 @@ Model Waveform
 
 Program
 
+<img width="823" height="895" alt="image" src="https://github.com/user-attachments/assets/1fe3e76c-1bc8-4c1d-8d31-3775d1f79270" />
+
 Output Graph
+
+<img width="1917" height="1050" alt="image" src="https://github.com/user-attachments/assets/143df97c-7a58-465c-ab9c-021b8df87b03" />
 
 
 Tablular Column
 
+![Uploading ac 2nd exp.jpg…]()
+
+
+
+
+![ac exp 23](https://github.com/user-attachments/assets/1920ffb1-f437-49c0-9876-e273f44e042f)
 
 Result
 
