@@ -52,10 +52,12 @@ Program
 <img width="824" height="895" alt="Screenshot 2025-10-31 220409" src="https://github.com/user-attachments/assets/376e154f-4f9c-4418-8bd0-27cd91ddc065" />
 
 Output Graph
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5a7f3f67-6114-42cb-92e3-300a7c44ace3" />
 
 
 Tablular Column
+
 ![ac 2nd exp](https://github.com/user-attachments/assets/8903120a-502c-4c09-a124-7d63a1e38ce5)
 
 ![ac exp 23](https://github.com/user-attachments/assets/08af9fed-d0bf-4d38-a6da-67963bdeb521)
